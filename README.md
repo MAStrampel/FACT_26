@@ -1,6 +1,6 @@
 # Fair Selective Classification via Sufficiency
 
-This repository is an implementation of [Fair Selective Classification via Sufficiency](https://arxiv.org/abs/2110.15403). 
+This repository is an implementation of [Fair Selective Classification via Sufficiency](https://proceedings.mlr.press/v139/lee21b.html). 
 
 >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
 
