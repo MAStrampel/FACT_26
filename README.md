@@ -1,8 +1,6 @@
->📋  A template README.md for code accompanying a Machine Learning paper
+# Fair Selective Classification via Sufficiency
 
-# My Paper Title
-
-This repository is the official implementation of [My Paper Title](https://arxiv.org/abs/2030.12345). 
+This repository is an implementation of [Fair Selective Classification via Sufficiency](https://arxiv.org/abs/2110.15403). 
 
 >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
 
