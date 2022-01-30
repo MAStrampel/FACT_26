@@ -6,11 +6,17 @@ This repository is an implementation of [Fair Selective Classification via Suffi
 
 ## Requirements
 
-To install requirements:
+To install requirements move to the folder and run:
 
 ```setup
-pip install -r requirements.txt
+conda env create -f env.yml
 ```
+After a succesfull install activate the enviroment:
+
+```activate
+conda activate fair
+```
+Running the code for the first time will automatically install the datasets needed.
 
 >📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
 
@@ -19,7 +25,7 @@ pip install -r requirements.txt
 To train the model(s) in the paper, run this command:
 
 ```train
-python train.py --input-data <path_to_data> --alpha 10 --beta 20
+python3 main.py --dataset=
 ```
 
 >📋  Describe how to train the models, with example commands on how to train the models in your paper, including the full training procedure and appropriate hyperparameters.
