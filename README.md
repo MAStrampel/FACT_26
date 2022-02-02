@@ -44,7 +44,7 @@ python eval.py --model-file mymodel.pth --benchmark imagenet
 
 You can download pretrained models here:
 
-- [My awesome model](https://drive.google.com/mymodel.pth) trained on ImageNet using parameters x,y,z. 
+- [Models](https://drive.google.com/drive/folders/1n8oiE18bKkSpZEUA3jC2Q81H6hW1Mhhh?usp=sharing) trained on the datasets. 
 
 >📋  Give a link to where/how the pretrained models can be downloaded and how they were trained (if applicable).  Alternatively you can have an additional column in your results table with a link to the models.
 
